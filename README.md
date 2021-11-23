@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ted</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nguyen Quang Minh</h1>
 <h3 align="center">I'm a VietNamese Developer.</h3>
 
 ## 🙋‍♂️ About Me
@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **ReactJs,NodeJs and MongoDB.**
 
-- 👨‍💻 All of my projects are available at **https://github.com/DiepTheDuy**
+- 👨‍💻 All of my projects are available at **https://github.com/quangminhit1102**
 
-- 📫 How to reach me **dieptheduy2000@gmail.com**
+- 📫 How to reach me **quangminhit1102@gmail.com**
 
 
 <br/>
