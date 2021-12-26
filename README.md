@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently being student at Hutech university in HCM city
 
-- 🌱 I’m currently learning **ReactJs,NodeJs and MongoDB.**
+- 🌱 I’m currently learning C#, ASP.NET, JAVA, SPRING, ...
 
 - 👨‍💻 All of my projects are available at **https://github.com/quangminhit1102**
 
